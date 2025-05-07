@@ -54,6 +54,15 @@ This script is not perfect but provides good OCR results for terminal text and c
 - Reasonable contrast
 - Clean backgrounds
 
+## Learn More
+
+Read the detailed article about this script:
+[Automating Text Extraction (OCR) from Screenshots with Tesseract and GNOME Screenshot](https://medium.com/@kharbandaashish01/automating-text-extraction-ocr-from-screenshots-with-tesseract-and-gnome-screenshot-db3bcf73e735)
+
+## Keywords
+
+OCR, Linux, Tesseract, terminal text extraction, screenshot text recognition, GNOME Screenshot, ImageMagick, clipboard, bash script, text processing, code extraction, terminal OCR, optical character recognition, Linux automation, text capture
+
 ## License
 
 Feel free to modify and distribute according to your needs. 
